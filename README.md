@@ -1,10 +1,14 @@
-# mdn-starter-site
+# mdn-projects
 
-My progress on the MDN "Getting started with the web" section
+***This repository will host my work from the MDN learning content***
 
-- The beginning of this content may be found here:
+- MDN Getting Started with the web:
 
   https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+
+- MDN Front-end web developer learning pathway:
+
+  https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
 
 ---
 

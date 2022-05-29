@@ -1,0 +1,103 @@
+/******************************************************************************/
+
+  /*                    MDN Starter Site Stylesheet
+
+                          timscoding@protonmail.com
+
+                                                                              */
+
+/******************************************************************************/
+
+/* Universal */
+
+  /* Resets margins for all browsers */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/******************************************************************************/
+
+/* Fonts */
+
+
+
+/******************************************************************************/
+
+/* Type */
+
+html {
+  /* Background Styling */
+  background-color: #8787F6;
+  /* Font Styling */
+  font-size: 10px;
+  font-family: font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+  /* Sets dimensions of element */
+  width: 600px;
+  margin: 0 auto; /* vertical | horizontal */
+  /* Color for background and text */
+  background-color: #030339;
+  color: white;
+  /* Padding between content and margin */
+  padding: 0px 20px 20px 20px; /* top | right | bottom | left */
+  border-radius: 5px solid black; /* size, type, color */
+}
+
+h1 {
+  /* Sets dimensions of element */
+  margin: 0; /* Size of element's outer edges */
+  padding: 20px 0; /* Padding between content and margin */
+  /* Font Styling */
+  font-size: 35px;
+  text-align: center;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black; /* offset-x | offset-y | blur radius | color */
+}
+
+img {
+  height: 400px;
+  width: auto;
+  /* Centers inline element */
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  color: red;
+  font-size: 16px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+/******************************************************************************/
+
+/* Class */
+
+
+
+/******************************************************************************/
+
+/* ID */
+
+
+
+/******************************************************************************/
+
+/* Attribute */
+
+
+
+/******************************************************************************/
+
+/* Media */
+
+
+
+/******************************************************************************/

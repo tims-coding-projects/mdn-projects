@@ -6,9 +6,24 @@
 
   https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 
-- MDN Front-end web developer learning pathway:
+    - Progress: ***COMPLETED***
+
+
+- MDN Front-end web developer:
 
   https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
+
+  - Progress:
+
+      - HTML: Introduction to HTML
+
+      - CSS: CSS First Steps
+
+      - JavaScript: JavaScript first steps
+
+        - A first splash into JavaScript
+
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
 
 ---
 

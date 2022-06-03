@@ -21,9 +21,9 @@
 
       - JavaScript: JavaScript first steps
 
-        - A first splash into JavaScript
+        - What went wrong? Troubleshooting JavaScript
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
 
 ---
 

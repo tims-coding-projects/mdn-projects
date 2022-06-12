@@ -17,13 +17,15 @@
 
       - HTML: Introduction to HTML
 
-      - CSS: CSS First Steps
+      - CSS: CSS first Steps
 
       - JavaScript: JavaScript first steps
 
-        - What went wrong? Troubleshooting JavaScript
+        - Storing the information you need — Variables
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
+          - Constants in JavaScript
+
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables
 
 ---
 

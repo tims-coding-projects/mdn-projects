@@ -132,3 +132,19 @@ Note that although a constant in JavaScript must always name the same value, you
 <code>const junction = { guardianForce : 'Ramuh' };</code>
 
 <code>console.log(junction.guardianForce); // 'Ramuh'</code>
+
+You can update, add, or remove properties of an object declared using const, because even though the content of the object has changed, the constant is still pointing to the same object:
+
+<code>junction.guardianForce = 'Doomtrain';</code>
+
+<code>console.log(junction.guardianForce); // 'Doomtrain'</code>
+
+#### When to use const and when to use let
+
+If you can't do as much with <code>const</code> as you can with <code>let</code>, why would you prefer to use it rather than let? In fact const is very useful. If you use const to name a value, it tells anyone looking at your code that this name will never be assigned to a different value. Any time they see this name, they will know what it refers to.
+
+In this course, we adopt the following principle about when to use let and when to use const:
+
+  - Use <code>const</code> when you can, and use <code>let</code> when you have to.
+
+**This means that if you can initialize a variable when you declare it, and don't need to reassign it later, make it a constant.**

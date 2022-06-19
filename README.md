@@ -21,11 +21,11 @@
 
       - JavaScript: JavaScript first steps
 
-        - Test your skills: Math
+        - Handling text - strings in JavaScript
 
-          - Math 1
+          - Numbers vs. strings
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#numbers_vs._strings
 
 ---
 

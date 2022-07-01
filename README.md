@@ -21,12 +21,11 @@
 
       - JavaScript: JavaScript first steps
 
-        - Handling text - strings in JavaScript
+        - Useful string methods
 
-          - Numbers vs. strings
+          - Active learning examples
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#numbers_vs._strings
-
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
 ---
 
 ***This project is licensed under the terms of the GNU GENERAL PUBLIC LICENSE

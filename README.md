@@ -25,7 +25,7 @@
 
           - Active learning examples
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods#active_learning_examples
 ---
 
 ***This project is licensed under the terms of the GNU GENERAL PUBLIC LICENSE

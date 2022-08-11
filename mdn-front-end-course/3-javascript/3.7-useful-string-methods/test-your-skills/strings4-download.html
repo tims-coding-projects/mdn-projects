@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Strings: Task 3</title>
+    <title>Strings: Task 4</title>
     <style>
       p {
         color: purple;
@@ -26,24 +26,21 @@
 
   </body>
   <script>
-    const quote = 'I dO nOT lIke gREen eGgS anD HAM';
+    const theorem = 'Pythagorean theorem';
 
-    // Add your code here
-    const fixedQuote = quote.toUpperCase();
-    const dontLike = fixedQuote.replace('GREEN EGGS AND HAM', 'SEAFOOD');
-    const finalQuote dontLike + ".";
+    const a = 5;
+    const b = 8;
+
+    const myString = `Using ${theorem}, we can work out that that if the two shortest sides of a right-angled triangle have lengths of ${a} and ${b}, the length of the hypotenuse is ${a * 2 + b * 2}.`;
+
 
     // Don't edit the code below here!
 
     const section = document.querySelector('section');
 
     const para1 = document.createElement('p');
-    para1.textContent = fixedQuote;
-    const para2 = document.createElement('p');
-    para2.textContent = finalQuote;
-
+    para1.textContent = myString;
     section.appendChild(para1);
-    section.appendChild(para2);
   </script>
 
 </html>

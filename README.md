@@ -21,11 +21,11 @@
 
       - JavaScript: JavaScript first steps
 
-        - Useful string methods
+        - Arrays
 
-          - Active learning examples
+          - Converting between strings and arrays
 
-          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods#active_learning_examples
+          https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays#converting_between_strings_and_arrays
 ---
 
 ***This project is licensed under the terms of the GNU GENERAL PUBLIC LICENSE

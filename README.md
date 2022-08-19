@@ -17,6 +17,10 @@
 
       - HTML: Introduction to HTML
 
+        - Creating hyperlinks
+
+        https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#anatomy_of_a_link
+
       - CSS: CSS first Steps
 
       - JavaScript: JavaScript first steps

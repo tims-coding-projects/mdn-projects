@@ -167,6 +167,13 @@ This is fine if you know the index of an item, but what if you don't? You can fi
 
 - console.log(longer);  // [ "Liverpool", "Edinburgh" ]
 
+- Like map(), we give a function to the filter() method, and filter() calls this function for every item in the array, passing in the item. If the function returns true, then the item is added to a new array. Finally it returns the new array.
+
+### Converting between strings and arrays {split()}
+
+- Often you'll be presented with some raw data contained in a big long string, and you might want to separate the useful items out into a more useful form and then do things to them, like display them in a data table. To do this, we can use the split() method. In its simplest form, this takes a single parameter, the character you want to separate the string at, and returns the substrings between the separator as items in an array.
+
+
 
 
 
